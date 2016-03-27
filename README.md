@@ -9,6 +9,7 @@ Computing the inverse of a square matrix can be done with the solve function in 
 For this assignment, assume that the matrix supplied is always invertible.
 
 In order to complete this assignment, you must do the following:
+
 1.Fork the GitHub repository containing the stub R files at https://github.com/rdpeng/ProgrammingAssignment2 to create a copy under your own account.
 2.Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
 3.Edit the R file contained in the git repository and place your solution in that file (please do not rename the file).
