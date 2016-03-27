@@ -1,5 +1,4 @@
 ## https://github.com/Whirligigchen/ProgrammingAssignment2-
-## SHA-1 hash: fa88b42e86ed75eac6acf17942e7d6a81d5ab69f
 ## R programming assignment 2: lexical scoping- catching the inverse of a matrix
 
 ## The make CacheMatrix creates a special "matrix"
